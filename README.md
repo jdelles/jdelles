@@ -1,7 +1,7 @@
 # Hi, I'm James
-- 🌱  I’m currently studying computer science at NC State - Go Pack ! :wolf:  
+- 🌱  I’m studying computer science at NC State - Go Pack ! :wolf:  
 - :technologist: I'm interested in personal finance and productivity projects. 
-- :book:  I'm reading [Algorithms to Live By](https://www.audiobooks.com/audiobook/algorithms-to-live-by-the-computer-science-of-human-decisions/262932) and [Rhythm of War](https://www.audiobooks.com/audiobook/rhythm-of-war/411702). 
+- :book:  I'm reading [Algorithms to Live By](https://www.audible.com/pd/Algorithms-to-Live-By-Audiobook/B01D24NLWO) and [Elantris](https://www.audible.com/pd/Elantris-Audiobook/B002V5CMZ8). 
 - 📫  You can reach me on [Twitter](https://www.twitter.com/jamesdelles) or [LinkedIn](https://www.linkedin.com/in/jamesdelles/). 
 
 
