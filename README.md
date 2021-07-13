@@ -5,6 +5,7 @@ I’m studying <a href="https://www.engineeringonline.ncsu.edu/programs-and-cour
 <img src="images/Java.png" alt="" width="32px">
 <img src="images/JavaScript-logo.png" alt="" width="32px">
 <img src="images/html.png" alt="" width="32px">
+<img src="images/css.png" alt="" width="32px">
 <img src="images/Firebase.png" alt="" width="32px">
 <img src="images/Jenkins.png" alt="" width="32px">
 <img src="images/boostrap.png" alt="" width="32px">
@@ -31,5 +32,5 @@ I’m studying <a href="https://www.engineeringonline.ncsu.edu/programs-and-cour
 <p>I have a neverending list of books I'd like to read - but that's the beauty of life! We wake up every single day with the chance to learn something new!</p>
 <h2>If you've read this much of my profile and want to know a little bit more about me, here are some place you can find me...</h2>
 <p>
-<li><a href="https://twitter.com/JamesDelles target="blank""><img src="images/Twitter.png" alt="James Delles Twitter Feed" width="32px"></a><a href="https://www.linkedin.com/in/jamesdelles" target="blank"><img src="images/LI.png" alt="LinkedIn Profile" width="32px"></a><a href="https://codepen.io/jdelles" target="blank"><img src="images/codepen.png" alt="CodePen Profile" width="32px"></a>
+<a href="https://twitter.com/JamesDelles target="blank""><img src="images/Twitter.png" alt="James Delles Twitter Feed" width="32px"></a> <a href="https://www.linkedin.com/in/jamesdelles" target="blank"><img src="images/LI.png" alt="LinkedIn Profile" width="32px"></a> <a href="https://codepen.io/jdelles" target="blank"><img src="images/codepen.png" alt="CodePen Profile" width="32px"></a>
 </p>
