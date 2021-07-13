@@ -31,4 +31,4 @@ I’m studying <a href="https://www.engineeringonline.ncsu.edu/programs-and-cour
 </ul>
 <p>I have a neverending reading list but that's the beauty of life! We wake up every day with the chance to learn something new!</p>
 <h2>If you've read this much of my profile and want to know a little bit more about me, here are some place you can find me...</h2>
-<p><a href="https://twitter.com/JamesDelles target="blank""><img src="images/Twitter.png" alt="James Delles Twitter Feed" width="32px"></a> <a href="https://www.linkedin.com/in/jamesdelles" target="blank"><img src="images/LI.png" alt="LinkedIn Profile" width="32px"></a> <a href="https://codepen.io/jdelles" target="blank"><img src="images/codepen.png" alt="CodePen Profile" width="32px"></a></p>
+<p><a href="https://twitter.com/JamesDelles" target="blank""><img src="images/Twitter.png" alt="James Delles Twitter Feed" width="32px"></a> <a href="https://www.linkedin.com/in/jamesdelles" target="blank"><img src="images/LI.png" alt="LinkedIn Profile" width="32px"></a> <a href="https://codepen.io/jdelles" target="blank"><img src="images/codepen.png" alt="CodePen Profile" width="32px"></a></p>
