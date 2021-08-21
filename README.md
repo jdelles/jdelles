@@ -1,13 +1,18 @@
 ## Hi, I'm James
-I’m studying <a href="https://www.engineeringonline.ncsu.edu/programs-and-courses/certificates/computer-programming-certificate/courses/">computer science at NC State</a> ( Go Pack! :wolf: ) &nbsp; and learning full-stack web development with <a href="https://www.theodinproject.com/">The Odin Project</a>. I code in Java and JavaScript. I have 2 <a href="https://www.jimcollins.com/article_topics/articles/BHAG.html">BHAGs</a> in this life: Help make education more accessible and help families climb out of generational poverty. To that end, I am actively seeking open-source projects and hackathons in the education and finance space. 
+I’m studying <a href="https://www.engineeringonline.ncsu.edu/programs-and-courses/certificates/computer-programming-certificate/courses/">computer science at NC State</a> ( Go Pack! :wolf: ) &nbsp; and learning full-stack web development via <a href="https://www.theodinproject.com/">The Odin Project</a>. I code in Java and JavaScript. I am passionate about contributing to solutions to problems that impact climate change, education, personal finance and poverty. 
+
+I grew up in the 80s and 90s tinkering with computers and took my first CS class in high school. I built my first website on geocities and later learned to tweak WordPress themes. I'm enrolled in a course in C right now and learning how to use webpack and npm for building sites. My latest project is the restaurant-page. 
+
+School repos are private - projects there have included: 
+- A single player "Mastermind" game built with a partner that included a GUI with randomized code generation and feedback during each round.  
+- A university scheduling system utilizing OOP to manage students and faculty schedules, course information, enrollment data and IO functionality. 
+- A report manager for a robot vacuum cleaner. The objective was to create efficient algorithms for parsing 2 types of raw data objects into 3 reports using a variety of data structures and then to test and analyze the runtime of various data structures. 
 <h2>Languages and Tools I use</h2>
 <p>
 <img src="images/Java.png" alt="" width="32px">
 <img src="images/JavaScript-logo.png" alt="" width="32px">
 <img src="images/html.png" alt="" width="32px">
 <img src="images/css.png" alt="" width="32px">
-<img src="images/Firebase.png" alt="" width="32px">
-<img src="images/Jenkins.png" alt="" width="32px">
 <img src="images/boostrap.png" alt="" width="32px">
 <img src="images/eclipse.png" alt="" width="32px">
 <img src="images/vscode.png" alt="" width="32px">
