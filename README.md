@@ -4,7 +4,15 @@ Hi 👋 My name is James Delles.
 Front End Engineer / Mobile Developer
 -------------------------------------
 
-After a long career in business administration, I switched to Software Engineering through a combination of traditional education at NC State University and online resources such as The Odin Project and Codecademy. In the Summer of 2022, I found my first engineering position with Fidelity Investments via their LEAP program and began my new career as a front end software engineer focusing on Angular, iOS, and Android development. In the Fall of 2022, I will continue my formal education online at Georgia Tech in their Online Master of Science in Computer Science degree program. It may take me 5 years to complete but I am eager to learn more and to work toward the interactive intelligence specialization. I only dabble here now as I'm learning primarily on the job and write code that I cannot share in public. Project ideas I may work on one day: A CRM for home owners associations. I serve as the VP of our local HOA and have found options in the market to be limited and lacking in depth. If you know of an open source project in this realm, let me know!
+After a long career in business administration, I switched to Software Engineering through a combination of traditional education at NC State University and online resources such as The Odin Project and Codecademy. 
+
+In the Summer of 2022, I found my first engineering position with Fidelity Investments via their LEAP program and began my new career as a front end software engineer focusing on Angular, iOS, and Android development. 
+
+In the Fall of 2022, I will continue my formal education online at Georgia Tech in their Online Master of Science in Computer Science degree program. It may take me 5 years to complete but I am eager to learn more and to work toward the interactive intelligence specialization. 
+
+I only dabble here now as I'm learning primarily on the job and write code that I cannot share in public. 
+
+Project ideas I may work on one day: A CRM for home owners associations. I serve as the VP of our local HOA and have found options in the market to be limited and lacking in depth. If you know of an open source project in this realm, let me know!
 
 * 🌍  I'm based in Chapel Hill, NC
 * ✉️  You can contact me at [james.delles@gmail.com](mailto:james.delles@gmail.com)
