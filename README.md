@@ -52,6 +52,7 @@ Project ideas I may work on one day: A CRM for home owners associations. I serve
   - Designing Data Intensive Applications
   - The Pragmatic Programmer
   - Clean Code
+  - You Don't Know JS (yet)
 
 ### Socials
 
