@@ -4,9 +4,11 @@ Hi 👋 My name is James Delles.
 Day Job: Android Engineer
 -------------------------------------
 
-This account is largely an archive of the learning process I followed to earn my first real software engineering job. 
+As a passionate technology enthusiast, I initially ventured into web development and even established a modestly successful digital agency. However, when COVID-19 struck, I seized the opportunity to transition to remote work, gaining invaluable extra hours in my day.
 
-I've always dabbled in web development, and for a time had my own mildly successful digital agency. When COVID struck, I moved to work from home and gained a few extra hours in my day. The time seemed right to finally go it and chase the dream. So, I expored my options and decided that enrolling at a traditional brick and mortar was the way to go. I wanted access to an established and prestigous career center and that's exactly what I got. Along with a world class education, I received all my job offers because of campus recruiters. In January 2022, I accepted a position at Fidelity Investments. 
+Recognizing that the time was ripe to pursue my long-held dream of becoming a software engineer. Embarking on a transformative career change, I adopted an all-encompassing strategy that blended the best of both worlds. As a non-traditional learner, I navigated my path by enrolling in a [free online bootcamp](https://www.theodinproject.com/) and complementing it with a comprehensive [computer programming certificate](https://www.engineeringonline.ncsu.edu/programs-and-courses/certificates/computer-programming-certificate/) from a reputable brick-and-mortar college.
+
+In 2022, I proudly accepted a position at Fidelity Investments, marking a significant milestone in my professional journey. This GitHub profile serves as a living archive, documenting the learning process that propelled me to my first real software engineering role. Explore my projects, delve into my code, and witness the evolution of my skills and expertise. Join me on this captivating journey through the ever-evolving realm of software engineering.
 
 * 🌍  I'm based in Chapel Hill, NC
 * ✉️  You can contact me at [james.delles@gmail.com](mailto:james.delles@gmail.com)
