@@ -3,9 +3,9 @@ Hi there! I'm James Delles, an Android Engineer based in Chapel Hill, NC. This R
 ## About Me
 
 - 👨‍💻 Android Engineer at Fidelity Investments
-- 🎓 BS in Accounting, Western Governors University (2013)
-- 🎓 Certificate in Computer Science, North Carolina State University (2022)
 - 🎓 MS in Computer Science, Georgia Tech (Expected 2025)
+- 🎓 Certificate in Computer Science, North Carolina State University (2022)
+- 🎓 BS in Accounting, Western Governors University (2013)
 - ✉️ Contact: james.delles@gmail.com
 - 👔 [LinkedIn](https://www.linkedin.com/in/jamesdelles/)
 
