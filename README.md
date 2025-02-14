@@ -1,55 +1,81 @@
-Hi there! I'm James Delles, a Software Engineer based in Chapel Hill, NC. This README provides an overview of my skills, experience, and projects. Feel free to explore and connect!
+# Hi there! 👋 I'm James Delles
 
-## About Me
+🚀 **Software Engineer | Backend & AI Enthusiast**  
+📍 Chapel Hill, NC  
 
-- 👨‍💻 Software Engineer at Fidelity Investments
-- 🎓 MS in Computer Science, Georgia Tech (Expected May 2025)
-- 🎓 Certificate in Computer Science, North Carolina State University (2022)
-- 🎓 BS in Accounting, Western Governors University (2013)
-- ✉️ Contact: james.delles@gmail.com
-- 👔 [LinkedIn](https://www.linkedin.com/in/jamesdelles/)
-
-## Skills
-
-- **AI/ML**
-- **Python**
-- **JavaScript/TypeScript** 
-- **Android Development**
-- **Java/Kotlin**
-- **Jetpack Compose**
-- **GraphQL**
-- **NodeJS**
-- **RESTful APIs**
-- **Mobile App Architecture**
-- **Unit Testing (JUnit, Mockito)**
-- **UI/UX Design Principles**
-- **Git and Version Control**
-- **CI/CD**
-- **Debugging and Performance Optimization**
-- **Agile/Scrum Methodologies**
-- **Database Management (SQLite, Room)**
-- **Dependency Injection (Dagger, Hilt)**
-- **Security Best Practices in Mobile Development**
-- **Design Patterns (MVVM, MVC, Observer)**
-- **Kotlin Coroutines**
-
-## Current Role
-
-With a foundation in accounting (BS Accounting) and a Certificate in Computer Science from North Carolina State University (2022), I bring a unique blend of financial acumen and technical expertise. I'm currently pursuing a Master of Science in Computer Science at Georgia Tech with a focus on artificial intelligence.
-
-I successfully completed the LEAP Technology Immersion Program in 2022 and transitioned to a full-time software engineering role in healthcare technology. I was promoted from L3 to L4 in January 2024. My role involves developing new features, building and maintaining microservices, and coordinating with business partners to ensure an exceptional end-to-end user experience. 
+I’m a software engineer with a background in **finance and accounting**, now building scalable backend systems and exploring **AI/ML applications**. With experience in **microservices, GraphQL, and cloud-based architectures**, I enjoy solving complex problems and optimizing performance at scale.
 
 ---
 
-### Resources I've found valuable
+## 🔹 About Me
 
-- https://www.theodinproject.com
-- https://developer.android.com/courses
-- https://adamsilver.io/blog/
-- https://tldr.tech/
+🎯 **Software Engineer (L4) at Fidelity Investments**  
+🎓 **M.S. in Computer Science, Georgia Tech** _(Expected May 2025)_  
+📊 **B.S. in Accounting, Western Governors University (2013)**  
+📜 **Certificate in Computer Science, NC State (2022)**  
 
-### Reading List
-  - Designing Data Intensive Applications
-  - The Pragmatic Programmer
-  - Algorithms to Live By
-  - Multipliers
+💡 Former manager turned engineer with a passion for **backend development, AI, and automation**. I thrive at the intersection of **finance, technology, and AI-driven solutions**.
+
+📫 **Contact**: [james.delles@gmail.com](mailto:james.delles@gmail.com)  
+🦋 **Bluesky**: [bsky.app/profile/jamesdelles.bsky.social](https://bsky.app/profile/jamesdelles.bsky.social)
+🔗 **LinkedIn**: [linkedin.com/in/jamesdelles](https://www.linkedin.com/in/jamesdelles/)  
+
+---
+
+## 🛠️ Skills & Technologies
+
+### **Backend & Microservices**
+- **Python, Rust (learning), NodeJS**
+- **GraphQL, RESTful APIs**
+- **SQL, PostgreSQL, NoSQL (MongoDB, Firebase)**
+- **CI/CD, Docker, Kubernetes**
+- **Authentication & Security Best Practices**
+- **Distributed Systems & Scalability**
+
+### **AI & Machine Learning**
+- **PyTorch, Scikit-Learn, NumPy, Pandas**
+- **Reinforcement Learning, Deep Learning**
+- **Natural Language Processing**
+- **Bayesian Networks, Constraint Satisfaction Problems**
+- **Data Processing & Feature Engineering**
+
+### **Other**
+- **Git & Version Control**
+- **TDD, Unit Testing (JUnit, Mockito, PyTest)**
+- **Cloud & DevOps (AWS, GCP)**
+- **Agile & Scrum**
+
+---
+
+## 🌟 Featured Projects
+
+🚀 **AI Stock Trading System - GaTech School Project, Machine Learning For Trading**
+- Developed a **machine learning-based trading bot** using **technical indicators and reinforcement learning**.
+- Implemented **backtesting framework** to compare AI-driven and manual strategies.
+
+🧠 **Game AI Engine - GaTech School Project - Artificial Intelligence**
+- Created an **AI engine for Isolation using Alpha-Beta Pruning**.
+- Applied **iterative deepening and heuristic evaluation**.
+
+🔬 **Agent to solve Raven’s Progressive Matrices- GaTech School Project - Knowledge-Based AI**
+- Solved **85/96 problems** using **visual reasoning and pattern recognition**.
+
+---
+
+## 📚 Resources I Recommend
+
+- **[The Odin Project](https://www.theodinproject.com/)**
+- **[https://doc.rust-lang.org/book/](The Rust Book)**
+- **[https://www.youtube.com/@letsgetrusty](Let's Get Rusty)**
+- **[tldr.tech](https://tldr.tech/)** _(Tech news digest)_
+
+📖 **Reading List**
+- *Designing Data-Intensive Applications*
+- *The Pragmatic Programmer*
+- *Algorithms to Live By*
+- *Multipliers*
+
+---
+
+🚀 **Always open to learning, collaborating, and exploring new technologies.**  
+🔗 **Let’s connect!** [LinkedIn](https://www.linkedin.com/in/jamesdelles/) | [Bluesky](https://bsky.app/profile/jamesdelles.bsky.social) | [Email](mailto:james.delles@gmail.com)
