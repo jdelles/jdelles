@@ -17,7 +17,7 @@ I’m a software engineer with a background in **finance and accounting**, now b
 💡 Former manager turned engineer with a passion for **backend development, AI, and automation**. I thrive at the intersection of **finance, technology, and AI-driven solutions**.
 
 📫 **Contact**: [james.delles@gmail.com](mailto:james.delles@gmail.com)  
-🦋 **Bluesky**: [bsky.app/profile/jamesdelles.bsky.social](https://bsky.app/profile/jamesdelles.bsky.social)
+🦋 **Bluesky**: [bsky.app/profile/jamesdelles.bsky.social](https://bsky.app/profile/jamesdelles.bsky.social)  
 🔗 **LinkedIn**: [linkedin.com/in/jamesdelles](https://www.linkedin.com/in/jamesdelles/)  
 
 ---
@@ -57,7 +57,7 @@ I’m a software engineer with a background in **finance and accounting**, now b
 - Created an **AI engine for Isolation using Alpha-Beta Pruning**.
 - Applied **iterative deepening and heuristic evaluation**.
 
-🔬 **Agent to solve Raven’s Progressive Matrices- GaTech School Project - Knowledge-Based AI**
+🔬 **Agent to solve Raven’s Progressive Matrices - GaTech School Project - Knowledge-Based AI**
 - Solved **85/96 problems** using **visual reasoning and pattern recognition**.
 
 ---
@@ -65,8 +65,8 @@ I’m a software engineer with a background in **finance and accounting**, now b
 ## 📚 Resources I Recommend
 
 - **[The Odin Project](https://www.theodinproject.com/)**
-- **[https://doc.rust-lang.org/book/](The Rust Book)**
-- **[https://www.youtube.com/@letsgetrusty](Let's Get Rusty)**
+- **[The Rust Book](https://doc.rust-lang.org/book/)**
+- **[Let's Get Rusty](https://www.youtube.com/@letsgetrusty)**
 - **[tldr.tech](https://tldr.tech/)** _(Tech news digest)_
 
 📖 **Reading List**
