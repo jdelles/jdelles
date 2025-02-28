@@ -3,18 +3,16 @@
 🚀 **Software Engineer | Backend & AI Enthusiast**  
 📍 Chapel Hill, NC  
 
-I’m a software engineer with a background in **finance and accounting**, now building scalable backend systems and exploring **AI/ML applications**. With experience in **microservices, GraphQL, and cloud-based architectures**, I enjoy solving complex problems and optimizing performance at scale.
+I’m a software engineer with a background in **finance and accounting**, now building scalable backend systems and exploring **AI/ML applications**. With experience in **microservices, GraphQL, and cloud-based architectures**. I enjoy solving complex problems and am currently learning more about 'green coding' practices.
 
 ---
 
 ## 🔹 About Me
 
-🎯 **Software Engineer (L4) at Fidelity Investments**  
+🎯 **Software Engineer at Fidelity Investments**  
 🎓 **M.S. in Computer Science, Georgia Tech** _(Expected May 2025)_  
-📊 **B.S. in Accounting, Western Governors University (2013)**  
 📜 **Certificate in Computer Science, NC State (2022)**  
-
-💡 Former manager turned engineer with a passion for **backend development, AI, and automation**. I thrive at the intersection of **finance, technology, and AI-driven solutions**.
+📊 **B.S. in Accounting, Western Governors University (2013)**  
 
 📫 **Contact**: [james.delles@gmail.com](mailto:james.delles@gmail.com)  
 🦋 **Bluesky**: [bsky.app/profile/jamesdelles.bsky.social](https://bsky.app/profile/jamesdelles.bsky.social)  
@@ -23,6 +21,10 @@ I’m a software engineer with a background in **finance and accounting**, now b
 ---
 
 ## 🛠️ Skills & Technologies
+
+### **Frontend and Mobile**
+- **Android - Kotlin, Jetpack Compose**
+- **JavaScript, TypeScipt - Angular**
 
 ### **Backend & Microservices**
 - **Python, Rust (learning), NodeJS**
