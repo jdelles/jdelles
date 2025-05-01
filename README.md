@@ -10,8 +10,8 @@ I’m a software engineer with a background in **finance and accounting**, now b
 ## 🔹 About Me
 
 🎯 **Software Engineer at Fidelity Investments**  
-🎓 **M.S. in Computer Science, Georgia Tech** (2025)**  
-📜 **Certificate in Computer Science, NC State (2022)**  
+🎓 **M.S. in Computer Science, Georgia Tech (2025)**  
+📜 **Certificate in Computer Programming, NC State (2022)**  
 📊 **B.S. in Accounting, Western Governors University (2013)**  
 
 📫 **Contact**: [james.delles@gmail.com](mailto:james.delles@gmail.com)  
