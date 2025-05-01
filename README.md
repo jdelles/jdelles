@@ -10,7 +10,7 @@ I’m a software engineer with a background in **finance and accounting**, now b
 ## 🔹 About Me
 
 🎯 **Software Engineer at Fidelity Investments**  
-🎓 **M.S. in Computer Science, Georgia Tech** _(Expected May 2025)_  
+🎓 **M.S. in Computer Science, Georgia Tech** (2025)**  
 📜 **Certificate in Computer Science, NC State (2022)**  
 📊 **B.S. in Accounting, Western Governors University (2013)**  
 
@@ -24,11 +24,11 @@ I’m a software engineer with a background in **finance and accounting**, now b
 
 ### **Frontend and Mobile**
 - **Android - Kotlin, Jetpack Compose**
-- **JavaScript, TypeScipt - Angular**
+- **JavaScript, TypeScipt - Node, Angular**
 
 ### **Backend & Microservices**
-- **Python, Rust (learning), NodeJS**
-- **GraphQL, RESTful APIs**
+- **Python, Rust, Go**
+- **GraphQL, REST APIs**
 - **SQL, PostgreSQL, NoSQL (MongoDB, Firebase)**
 - **CI/CD, Docker, Kubernetes**
 - **Authentication & Security Best Practices**
@@ -43,7 +43,7 @@ I’m a software engineer with a background in **finance and accounting**, now b
 
 ### **Other**
 - **Git & Version Control**
-- **TDD, Unit Testing (JUnit, Mockito, PyTest)**
+- **TDD, Unit Testing (Jest, JUnit, Mockito, PyTest)**
 - **Cloud & DevOps (AWS, GCP)**
 - **Agile & Scrum**
 
