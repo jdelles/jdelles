@@ -1,10 +1,9 @@
 ## Hi, I’m James Delles 👋
 
-🖥️ Software engineer building high-scale services at Fidelity Investments  
+🖥️ Software engineer building scalable AI and tools
 🎓 M.S. in Computer Science (AI/ML), Georgia Tech  
-⚡ Big on Rust, Go, Python, TypeScript, and modern APIs (GraphQL & REST)  
-🧠 Into AI, ML, and clean, maintainable code  
-🤝 Love mentoring, team building, and shipping cool features  
-🌟 Favorite projects: AI trading bots, game-playing AIs, and puzzle solvers  
-📬 I'm on [LinkedIn](www.linkedin.com/in/jamesdelles
-) / [Bluesky](https://bsky.app/profile/jamesdelles.bsky.social)  
+⚡ Go, Python, and TypeScript enthusiast | CI/CD | Cloud & Kubernetes  
+🤖 Into AI, MLOps, and making ML models reliable and usable in production  
+🚀 Recent projects: AI agents, RAG pipelines, trading bots, and game-playing AIs  
+🤝 Always happy to connect on engineering, mentoring, and real-world ML  
+📬 Find me on [LinkedIn](https://www.linkedin.com/in/jamesdelles) / [Bluesky](https://bsky.app/profile/jamesdelles.bsky.social)
